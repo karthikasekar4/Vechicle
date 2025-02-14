@@ -1,0 +1,69 @@
+.owner{
+    border: 3px solid ;
+    border-radius: 20px;
+    margin-left: 400px;
+    padding: 5px;
+}
+.owner1{
+    border: 3px solid rgb(20, 20, 20);
+    border-radius: 20px;
+    padding: 5px;
+    
+}
+
+.car{
+    background-image:url("./Assests/OIP.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 500px;
+}
+.destination{
+margin: 50px;
+background-image:url("./Assests/OIP.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 300px;
+    width: 400px;
+    border: 3px solid rgb(255, 254, 254);
+    border-radius: 20px;
+    text-align: center;
+}
+.word{
+    font-size: xx-large;
+    text-align: center;
+    color: white;
+    line-height: 300px;
+    background-color: rgb(0, 0, 0);
+    font-weight: 700;
+    border:0px solid rgb(20, 20, 20);
+    border-radius: 10px;
+    border: 5px;
+    padding: 20px;
+    margin: 20px;
+    opacity: 0.6;
+
+}
+.spare img{
+    height: 300px;
+    width: 300px;
+}
+.quote{
+    margin: 50px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+.auth{
+    text-align:center;
+}
+
+.footer h2{
+  font-weight: bold;
+
+}
+.letter{
+    font-size: xx-large;
+}
